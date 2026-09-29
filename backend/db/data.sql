@@ -28,3 +28,4 @@ INSERT INTO marks (student_id, subject_id, marks_obtained, grade) VALUES
                                                                       (1, 2, 76.00, 'B'),
                                                                       (2, 1, 94.00, 'A+'),
                                                                       (2, 3, 81.50, 'A');
+
